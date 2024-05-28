@@ -8,13 +8,12 @@ It sets up:
 - API Gateway
 - Lambda function. 
 
-The api gateway routes request to corresponding lambda function which handles the request.
+The api gateway receives request that is handled by a lambda.
 
 ## Features
 
 - Provisions an API Gateway.
-- Provisions a Lambda
-- Rest endpoint created with Lambda function
+- Provisions a Lambda integration.
 
 ## Prerequisites
 
